@@ -24,8 +24,9 @@ res
 │    └─  acb2wavs.exe ... etc
 │
 └─sat
-        AcbEditor.exe ... etc
+  └─  AcbEditor.exe ... etc
 ```
+If the file is not placed correctly, the application returns an error.  
 
 ### Licence
 MIT.
